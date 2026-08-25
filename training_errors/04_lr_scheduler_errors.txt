@@ -1,0 +1,151 @@
+Scheduler Training Epoch 0:
+Loss: 2.1887
+Learning Rate: 0.001000
+Scheduler Training Epoch 1:
+Loss: 2.1574
+Learning Rate: 0.001000
+Scheduler Training Epoch 2:
+Loss: 2.1451
+Learning Rate: 0.001000
+Scheduler Training Epoch 3:
+Loss: 2.1390
+Learning Rate: 0.001000
+Scheduler Training Epoch 4:
+Loss: 2.1237
+Learning Rate: 0.001000
+Scheduler Training Epoch 5:
+Loss: 2.0843
+Learning Rate: 0.001000
+Scheduler Training Epoch 6:
+Loss: 2.0071
+Learning Rate: 0.001000
+Scheduler Training Epoch 7:
+Loss: 1.9441
+Learning Rate: 0.001000
+Scheduler Training Epoch 8:
+Loss: 1.8919
+Learning Rate: 0.001000
+Scheduler Training Epoch 9:
+Loss: 1.8604
+Learning Rate: 0.000500
+Scheduler Training Epoch 10:
+Loss: 1.8068
+Learning Rate: 0.000500
+Scheduler Training Epoch 11:
+Loss: 1.7767
+Learning Rate: 0.000500
+Scheduler Training Epoch 12:
+Loss: 1.7526
+Learning Rate: 0.000500
+Scheduler Training Epoch 13:
+Loss: 1.7332
+Learning Rate: 0.000500
+Scheduler Training Epoch 14:
+Loss: 1.7164
+Learning Rate: 0.000500
+Scheduler Training Epoch 15:
+Loss: 1.6916
+Learning Rate: 0.000500
+Scheduler Training Epoch 16:
+Loss: 1.6731
+Learning Rate: 0.000500
+Scheduler Training Epoch 17:
+Loss: 1.6551
+Learning Rate: 0.000500
+Scheduler Training Epoch 18:
+Loss: 1.6498
+Learning Rate: 0.000500
+Scheduler Training Epoch 19:
+Loss: 1.6349
+Learning Rate: 0.000250
+Scheduler Training Epoch 20:
+Loss: 1.5982
+Learning Rate: 0.000250
+Scheduler Training Epoch 21:
+Loss: 1.5824
+Learning Rate: 0.000250
+Scheduler Training Epoch 22:
+Loss: 1.5796
+Learning Rate: 0.000250
+Scheduler Training Epoch 23:
+Loss: 1.5708
+Learning Rate: 0.000250
+Scheduler Training Epoch 24:
+Loss: 1.5551
+Learning Rate: 0.000250
+Scheduler Training Epoch 25:
+Loss: 1.5368
+Learning Rate: 0.000250
+Scheduler Training Epoch 26:
+Loss: 1.5331
+Learning Rate: 0.000250
+Scheduler Training Epoch 27:
+Loss: 1.5083
+Learning Rate: 0.000250
+Scheduler Training Epoch 28:
+Loss: 1.4989
+Learning Rate: 0.000250
+Scheduler Training Epoch 29:
+Loss: 1.4812
+Learning Rate: 0.000125
+Scheduler Training Epoch 30:
+Loss: 1.4577
+Learning Rate: 0.000125
+Scheduler Training Epoch 31:
+Loss: 1.4561
+Learning Rate: 0.000125
+Scheduler Training Epoch 32:
+Loss: 1.4439
+Learning Rate: 0.000125
+Scheduler Training Epoch 33:
+Loss: 1.4399
+Learning Rate: 0.000125
+Scheduler Training Epoch 34:
+Loss: 1.4289
+Learning Rate: 0.000125
+Scheduler Training Epoch 35:
+Loss: 1.4168
+Learning Rate: 0.000125
+Scheduler Training Epoch 36:
+Loss: 1.4179
+Learning Rate: 0.000125
+Scheduler Training Epoch 37:
+Loss: 1.4066
+Learning Rate: 0.000125
+Scheduler Training Epoch 38:
+Loss: 1.4056
+Learning Rate: 0.000125
+Scheduler Training Epoch 39:
+Loss: 1.3967
+Learning Rate: 0.000063
+Scheduler Training Epoch 40:
+Loss: 1.3882
+Learning Rate: 0.000063
+Scheduler Training Epoch 41:
+Loss: 1.3702
+Learning Rate: 0.000063
+Scheduler Training Epoch 42:
+Loss: 1.3724
+Learning Rate: 0.000063
+Scheduler Training Epoch 43:
+Loss: 1.3604
+Learning Rate: 0.000063
+Scheduler Training Epoch 44:
+Loss: 1.3547
+Learning Rate: 0.000063
+Scheduler Training Epoch 45:
+Loss: 1.3640
+Learning Rate: 0.000063
+Scheduler Training Epoch 46:
+Loss: 1.3541
+Learning Rate: 0.000063
+Scheduler Training Epoch 47:
+Loss: 1.3581
+Learning Rate: 0.000063
+Scheduler Training Epoch 48:
+Loss: 1.3430
+Learning Rate: 0.000063
+Scheduler Training Epoch 49:
+Loss: 1.3372
+Learning Rate: 0.000031
+Scheduler Model Training took: 94.48 minutes

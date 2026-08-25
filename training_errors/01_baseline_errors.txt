@@ -1,0 +1,101 @@
+Training Epoch 0:
+Loss: 2.1814
+Training Epoch 1:
+Loss: 2.1529
+Training Epoch 2:
+Loss: 2.1435
+Training Epoch 3:
+Loss: 2.1428
+Training Epoch 4:
+Loss: 2.1422
+Training Epoch 5:
+Loss: 2.1416
+Training Epoch 6:
+Loss: 2.1412
+Training Epoch 7:
+Loss: 2.1406
+Training Epoch 8:
+Loss: 2.1394
+Training Epoch 9:
+Loss: 2.1381
+Training Epoch 10:
+Loss: 2.1360
+Training Epoch 11:
+Loss: 2.1316
+Training Epoch 12:
+Loss: 2.1218
+Training Epoch 13:
+Loss: 2.0976
+Training Epoch 14:
+Loss: 2.0314
+Training Epoch 15:
+Loss: 1.9150
+Training Epoch 16:
+Loss: 1.7821
+Training Epoch 17:
+Loss: 1.6788
+Training Epoch 18:
+Loss: 1.6038
+Training Epoch 19:
+Loss: 1.5497
+Training Epoch 20:
+Loss: 1.5010
+Training Epoch 21:
+Loss: 1.4390
+Training Epoch 22:
+Loss: 1.3814
+Training Epoch 23:
+Loss: 1.3349
+Training Epoch 24:
+Loss: 1.2756
+Training Epoch 25:
+Loss: 1.2420
+Training Epoch 26:
+Loss: 1.1973
+Training Epoch 27:
+Loss: 1.1675
+Training Epoch 28:
+Loss: 1.0853
+Training Epoch 29:
+Loss: 1.0695
+Training Epoch 30:
+Loss: 0.9969
+Training Epoch 31:
+Loss: 0.9664
+Training Epoch 32:
+Loss: 0.9430
+Training Epoch 33:
+Loss: 0.8759
+Training Epoch 34:
+Loss: 0.8352
+Training Epoch 35:
+Loss: 0.7792
+Training Epoch 36:
+Loss: 0.7502
+Training Epoch 37:
+Loss: 0.6992
+Training Epoch 38:
+Loss: 0.6524
+Training Epoch 39:
+Loss: 0.6363
+Training Epoch 40:
+Loss: 0.5500
+Training Epoch 41:
+Loss: 0.5368
+Training Epoch 42:
+Loss: 0.4668
+Training Epoch 43:
+Loss: 0.4028
+Training Epoch 44:
+Loss: 0.3750
+Training Epoch 45:
+Loss: 0.3085
+Training Epoch 46:
+Loss: 0.2736
+Training Epoch 47:
+Loss: 0.2812
+Training Epoch 48:
+Loss: 0.2186
+Training Epoch 49:
+Loss: 0.1579
+Model Training took: 40.93 minutes

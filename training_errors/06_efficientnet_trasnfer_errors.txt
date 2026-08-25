@@ -1,0 +1,101 @@
+Efficient Transfer Learning Epoch 0:
+Loss: 1.9308
+Efficient Transfer Learning Epoch 1:
+Loss: 1.3225
+Efficient Transfer Learning Epoch 2:
+Loss: 0.9414
+Efficient Transfer Learning Epoch 3:
+Loss: 0.7340
+Efficient Transfer Learning Epoch 4:
+Loss: 0.6256
+Efficient Transfer Learning Epoch 5:
+Loss: 0.5367
+Efficient Transfer Learning Epoch 6:
+Loss: 0.4592
+Efficient Transfer Learning Epoch 7:
+Loss: 0.3978
+Efficient Transfer Learning Epoch 8:
+Loss: 0.3659
+Efficient Transfer Learning Epoch 9:
+Loss: 0.3223
+Efficient Transfer Learning Epoch 10:
+Loss: 0.2833
+Efficient Transfer Learning Epoch 11:
+Loss: 0.2627
+Efficient Transfer Learning Epoch 12:
+Loss: 0.2350
+Efficient Transfer Learning Epoch 13:
+Loss: 0.2139
+Efficient Transfer Learning Epoch 14:
+Loss: 0.2008
+Efficient Transfer Learning Epoch 15:
+Loss: 0.1773
+Efficient Transfer Learning Epoch 16:
+Loss: 0.1794
+Efficient Transfer Learning Epoch 17:
+Loss: 0.1367
+Efficient Transfer Learning Epoch 18:
+Loss: 0.1512
+Efficient Transfer Learning Epoch 19:
+Loss: 0.1264
+Efficient Transfer Learning Epoch 20:
+Loss: 0.1177
+Efficient Transfer Learning Epoch 21:
+Loss: 0.1116
+Efficient Transfer Learning Epoch 22:
+Loss: 0.1145
+Efficient Transfer Learning Epoch 23:
+Loss: 0.1009
+Efficient Transfer Learning Epoch 24:
+Loss: 0.0949
+Efficient Transfer Learning Epoch 25:
+Loss: 0.0834
+Efficient Transfer Learning Epoch 26:
+Loss: 0.0812
+Efficient Transfer Learning Epoch 27:
+Loss: 0.0846
+Efficient Transfer Learning Epoch 28:
+Loss: 0.0771
+Efficient Transfer Learning Epoch 29:
+Loss: 0.0763
+Efficient Transfer Learning Epoch 30:
+Loss: 0.0631
+Efficient Transfer Learning Epoch 31:
+Loss: 0.0670
+Efficient Transfer Learning Epoch 32:
+Loss: 0.0581
+Efficient Transfer Learning Epoch 33:
+Loss: 0.0650
+Efficient Transfer Learning Epoch 34:
+Loss: 0.0594
+Efficient Transfer Learning Epoch 35:
+Loss: 0.0576
+Efficient Transfer Learning Epoch 36:
+Loss: 0.0450
+Efficient Transfer Learning Epoch 37:
+Loss: 0.0458
+Efficient Transfer Learning Epoch 38:
+Loss: 0.0444
+Efficient Transfer Learning Epoch 39:
+Loss: 0.0430
+Efficient Transfer Learning Epoch 40:
+Loss: 0.0387
+Efficient Transfer Learning Epoch 41:
+Loss: 0.0364
+Efficient Transfer Learning Epoch 42:
+Loss: 0.0438
+Efficient Transfer Learning Epoch 43:
+Loss: 0.0395
+Efficient Transfer Learning Epoch 44:
+Loss: 0.0419
+Efficient Transfer Learning Epoch 45:
+Loss: 0.0343
+Efficient Transfer Learning Epoch 46:
+Loss: 0.0336
+Efficient Transfer Learning Epoch 47:
+Loss: 0.0328
+Efficient Transfer Learning Epoch 48:
+Loss: 0.0328
+Efficient Transfer Learning Epoch 49:
+Loss: 0.0290
+Efficient Transfer Learning Training took: 112.89 minutes

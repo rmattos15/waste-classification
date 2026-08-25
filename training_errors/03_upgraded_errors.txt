@@ -1,0 +1,101 @@
+Upgraded Training Epoch 0:
+Loss: 2.1832
+Upgraded Training Epoch 1:
+Loss: 2.1512
+Upgraded Training Epoch 2:
+Loss: 2.1349
+Upgraded Training Epoch 3:
+Loss: 2.1169
+Upgraded Training Epoch 4:
+Loss: 2.0650
+Upgraded Training Epoch 5:
+Loss: 1.9781
+Upgraded Training Epoch 6:
+Loss: 1.9101
+Upgraded Training Epoch 7:
+Loss: 1.8281
+Upgraded Training Epoch 8:
+Loss: 1.7555
+Upgraded Training Epoch 9:
+Loss: 1.7081
+Upgraded Training Epoch 10:
+Loss: 1.6447
+Upgraded Training Epoch 11:
+Loss: 1.6237
+Upgraded Training Epoch 12:
+Loss: 1.5702
+Upgraded Training Epoch 13:
+Loss: 1.5301
+Upgraded Training Epoch 14:
+Loss: 1.5391
+Upgraded Training Epoch 15:
+Loss: 1.4804
+Upgraded Training Epoch 16:
+Loss: 1.4524
+Upgraded Training Epoch 17:
+Loss: 1.4405
+Upgraded Training Epoch 18:
+Loss: 1.3950
+Upgraded Training Epoch 19:
+Loss: 1.3740
+Upgraded Training Epoch 20:
+Loss: 1.3877
+Upgraded Training Epoch 21:
+Loss: 1.3539
+Upgraded Training Epoch 22:
+Loss: 1.3131
+Upgraded Training Epoch 23:
+Loss: 1.2956
+Upgraded Training Epoch 24:
+Loss: 1.2955
+Upgraded Training Epoch 25:
+Loss: 1.2730
+Upgraded Training Epoch 26:
+Loss: 1.2560
+Upgraded Training Epoch 27:
+Loss: 1.2448
+Upgraded Training Epoch 28:
+Loss: 1.2352
+Upgraded Training Epoch 29:
+Loss: 1.2037
+Upgraded Training Epoch 30:
+Loss: 1.1980
+Upgraded Training Epoch 31:
+Loss: 1.1743
+Upgraded Training Epoch 32:
+Loss: 1.1740
+Upgraded Training Epoch 33:
+Loss: 1.1348
+Upgraded Training Epoch 34:
+Loss: 1.1590
+Upgraded Training Epoch 35:
+Loss: 1.1727
+Upgraded Training Epoch 36:
+Loss: 1.1332
+Upgraded Training Epoch 37:
+Loss: 1.0841
+Upgraded Training Epoch 38:
+Loss: 1.1086
+Upgraded Training Epoch 39:
+Loss: 1.0971
+Upgraded Training Epoch 40:
+Loss: 1.0898
+Upgraded Training Epoch 41:
+Loss: 1.0641
+Upgraded Training Epoch 42:
+Loss: 1.0451
+Upgraded Training Epoch 43:
+Loss: 1.0503
+Upgraded Training Epoch 44:
+Loss: 1.0320
+Upgraded Training Epoch 45:
+Loss: 1.0162
+Upgraded Training Epoch 46:
+Loss: 1.0467
+Upgraded Training Epoch 47:
+Loss: 0.9677
+Upgraded Training Epoch 48:
+Loss: 0.9861
+Upgraded Training Epoch 49:
+Loss: 0.9666
+Upgraded Model Training took: 72.77 minutes

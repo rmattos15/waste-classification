@@ -1,0 +1,101 @@
+Transfer Learning Epoch 0:
+Loss: 1.3689
+Transfer Learning Epoch 1:
+Loss: 0.6810
+Transfer Learning Epoch 2:
+Loss: 0.5149
+Transfer Learning Epoch 3:
+Loss: 0.3931
+Transfer Learning Epoch 4:
+Loss: 0.3012
+Transfer Learning Epoch 5:
+Loss: 0.2355
+Transfer Learning Epoch 6:
+Loss: 0.2082
+Transfer Learning Epoch 7:
+Loss: 0.1730
+Transfer Learning Epoch 8:
+Loss: 0.1369
+Transfer Learning Epoch 9:
+Loss: 0.1183
+Transfer Learning Epoch 10:
+Loss: 0.0939
+Transfer Learning Epoch 11:
+Loss: 0.0733
+Transfer Learning Epoch 12:
+Loss: 0.0742
+Transfer Learning Epoch 13:
+Loss: 0.0659
+Transfer Learning Epoch 14:
+Loss: 0.0506
+Transfer Learning Epoch 15:
+Loss: 0.0471
+Transfer Learning Epoch 16:
+Loss: 0.0411
+Transfer Learning Epoch 17:
+Loss: 0.0318
+Transfer Learning Epoch 18:
+Loss: 0.0447
+Transfer Learning Epoch 19:
+Loss: 0.0423
+Transfer Learning Epoch 20:
+Loss: 0.0323
+Transfer Learning Epoch 21:
+Loss: 0.0296
+Transfer Learning Epoch 22:
+Loss: 0.0259
+Transfer Learning Epoch 23:
+Loss: 0.0216
+Transfer Learning Epoch 24:
+Loss: 0.0227
+Transfer Learning Epoch 25:
+Loss: 0.0206
+Transfer Learning Epoch 26:
+Loss: 0.0224
+Transfer Learning Epoch 27:
+Loss: 0.0212
+Transfer Learning Epoch 28:
+Loss: 0.0246
+Transfer Learning Epoch 29:
+Loss: 0.0136
+Transfer Learning Epoch 30:
+Loss: 0.0128
+Transfer Learning Epoch 31:
+Loss: 0.0133
+Transfer Learning Epoch 32:
+Loss: 0.0134
+Transfer Learning Epoch 33:
+Loss: 0.0149
+Transfer Learning Epoch 34:
+Loss: 0.0111
+Transfer Learning Epoch 35:
+Loss: 0.0128
+Transfer Learning Epoch 36:
+Loss: 0.0137
+Transfer Learning Epoch 37:
+Loss: 0.0116
+Transfer Learning Epoch 38:
+Loss: 0.0110
+Transfer Learning Epoch 39:
+Loss: 0.0111
+Transfer Learning Epoch 40:
+Loss: 0.0106
+Transfer Learning Epoch 41:
+Loss: 0.0092
+Transfer Learning Epoch 42:
+Loss: 0.0098
+Transfer Learning Epoch 43:
+Loss: 0.0099
+Transfer Learning Epoch 44:
+Loss: 0.0079
+Transfer Learning Epoch 45:
+Loss: 0.0132
+Transfer Learning Epoch 46:
+Loss: 0.0176
+Transfer Learning Epoch 47:
+Loss: 0.0106
+Transfer Learning Epoch 48:
+Loss: 0.0055
+Transfer Learning Epoch 49:
+Loss: 0.0108
+Transfer Learning Training took: 75.53 minutes

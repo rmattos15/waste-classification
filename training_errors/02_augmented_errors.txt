@@ -1,0 +1,101 @@
+Augmented Training Epoch 0:
+Loss: 2.1886
+Augmented Training Epoch 1:
+Loss: 2.1608
+Augmented Training Epoch 2:
+Loss: 2.1456
+Augmented Training Epoch 3:
+Loss: 2.1372
+Augmented Training Epoch 4:
+Loss: 2.1176
+Augmented Training Epoch 5:
+Loss: 2.0721
+Augmented Training Epoch 6:
+Loss: 2.0277
+Augmented Training Epoch 7:
+Loss: 2.0074
+Augmented Training Epoch 8:
+Loss: 1.9825
+Augmented Training Epoch 9:
+Loss: 1.9695
+Augmented Training Epoch 10:
+Loss: 1.9548
+Augmented Training Epoch 11:
+Loss: 1.9251
+Augmented Training Epoch 12:
+Loss: 1.9114
+Augmented Training Epoch 13:
+Loss: 1.8985
+Augmented Training Epoch 14:
+Loss: 1.8807
+Augmented Training Epoch 15:
+Loss: 1.8532
+Augmented Training Epoch 16:
+Loss: 1.8289
+Augmented Training Epoch 17:
+Loss: 1.8119
+Augmented Training Epoch 18:
+Loss: 1.7779
+Augmented Training Epoch 19:
+Loss: 1.7401
+Augmented Training Epoch 20:
+Loss: 1.7070
+Augmented Training Epoch 21:
+Loss: 1.6794
+Augmented Training Epoch 22:
+Loss: 1.6469
+Augmented Training Epoch 23:
+Loss: 1.6133
+Augmented Training Epoch 24:
+Loss: 1.5907
+Augmented Training Epoch 25:
+Loss: 1.5662
+Augmented Training Epoch 26:
+Loss: 1.5153
+Augmented Training Epoch 27:
+Loss: 1.5009
+Augmented Training Epoch 28:
+Loss: 1.4693
+Augmented Training Epoch 29:
+Loss: 1.4596
+Augmented Training Epoch 30:
+Loss: 1.4253
+Augmented Training Epoch 31:
+Loss: 1.4068
+Augmented Training Epoch 32:
+Loss: 1.3884
+Augmented Training Epoch 33:
+Loss: 1.3525
+Augmented Training Epoch 34:
+Loss: 1.3297
+Augmented Training Epoch 35:
+Loss: 1.3295
+Augmented Training Epoch 36:
+Loss: 1.2909
+Augmented Training Epoch 37:
+Loss: 1.2918
+Augmented Training Epoch 38:
+Loss: 1.2431
+Augmented Training Epoch 39:
+Loss: 1.2388
+Augmented Training Epoch 40:
+Loss: 1.2178
+Augmented Training Epoch 41:
+Loss: 1.2396
+Augmented Training Epoch 42:
+Loss: 1.2211
+Augmented Training Epoch 43:
+Loss: 1.2071
+Augmented Training Epoch 44:
+Loss: 1.1668
+Augmented Training Epoch 45:
+Loss: 1.1606
+Augmented Training Epoch 46:
+Loss: 1.1490
+Augmented Training Epoch 47:
+Loss: 1.1288
+Augmented Training Epoch 48:
+Loss: 1.1069
+Augmented Training Epoch 49:
+Loss: 1.1001
+Augmented Model Training took: 88.67 minutes
