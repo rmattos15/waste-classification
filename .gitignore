@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+########################
+# Project-specific files
+
+# Dataset
+data/
+
+# macOS
+.DS_Store
+
+# Miscellaneous files
+random_files/
